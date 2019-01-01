@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Colors>
   <Color name="Red" red="205" green="70" blue="90" owned="2101" used="269" enabled="True" type="perler" />
   <Color name="Orange" red="205" green="115" blue="80" owned="1000" used="113" enabled="True" type="perler" />
-  <Color name="NeonOrange" red="250" green="120" blue="80" owned="750" used="0" enabled="False" type="perler" />
+  <Color name="Neon Orange" red="250" green="120" blue="80" owned="750" used="0" enabled="False" type="perler" />
   <Color name="Yellow" red="255" green="235" blue="55" owned="1100" used="67" enabled="True" type="perler" />
   <Color name="Green" red="115" green="185" blue="115" owned="1000" used="144" enabled="True" type="perler" />
   <Color name="Light Blue" red="45" green="130" blue="200" owned="1250" used="0" enabled="True" type="perler" />
@@ -43,7 +43,23 @@
   <Color name="Parrot Green" red="0" green="150" blue="165" owned="1000" used="0" enabled="True" type="perler" />
   <Color name="Prickly Pear" red="175" green="200" blue="5" owned="1000" used="0" enabled="True" type="perler" />
   <Color name="CranApple" red="120" green="5" blue="40" owned="2000" used="175" enabled="True" type="perler" />
-  <Color name="Sand" red="220" green="220" blue="175" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="DORA" red="222" green="143" blue="77" owned="1000" used="0" enabled="True" type="perler" />
+  <color name="Evergreen" red="47" green="68" blue="46" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Charcoal" red="75" green="82" blue="81" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Cobalt" red="02" green="82" blue="164" owned="1000" used="0" enabled="True" type="perler" />|
+  <Color name="Fairy Dust" red="169" green="213" blue="162" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Fawn" red="215" green="176" blue="135" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Flamingo" red="242" green="130" blue="132" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Light Gray" red="211" green="211" blue="203" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Light Lavender" red="198" green="170" blue="206" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Midnight" red="22" green="40" blue="70" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Pewter" red="149" green="156" blue="152" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Robin's Egg" red="215" green="239" blue="250" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Salmon" red="246" green="196" blue="193" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Shamrock" red="0" green="153" blue="73" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Ivory" red="253" green="235" blue="219" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Toasted Marshmellow" red="214" green="211" blue="189" owned="1000" used="0" enabled="True" type="perler" />
+  <Color name="Cherry" red="172" green="37" blue="52" owned="1000" used="0" enabled="True" type="perler" />
   <Color type="hama" name="BLACK" red="0" green="0" blue="0" owned="0" used="0" enabled="True" />
   <Color type="nabbi" name="BLACK" red="0" green="0" blue="0" owned="0" used="0" enabled="True" />
   <Color type="hama" name="GREY" red="145" green="150" blue="155" owned="0" used="0" enabled="True" />
